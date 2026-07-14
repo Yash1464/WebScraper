@@ -1,0 +1,786 @@
+[
+  {
+    "id": "ab94519f-c8d7-4100-95d0-9fb4a64a1bbe",
+    "url": "https://bbdu.ac.in",
+    "title": "Best Private University in Lucknow | BBDU",
+    "mode": "static",
+    "counts": {
+      "headings": 64,
+      "paragraphs": 95,
+      "links": 49,
+      "images": 49,
+      "tables": 0
+    },
+    "scrapedAt": "2026-07-14T08:34:43.681Z",
+    "data": {
+      "pageUrl": "https://bbdu.ac.in",
+      "title": "Best Private University in Lucknow | BBDU",
+      "meta": {
+        "description": "Best Private University in Lucknow – BBDU. Offering career-focused UG &amp; PG programs, world-class campus, and vibrant student life. Admissions Open – Apply Now!",
+        "keywords": "Best engineering college Lucknow,  B.tech college in Lucknow, top private university India, B.tech, BCA, M.tech, BBA, MBA admission 2026, engineering college Lucknow, MBA college Lucknow,Apply Online for admission",
+        "ogTitle": "Best Private University in Lucknow - BBDU",
+        "ogImage": "https://bbdu.ac.in/images/logo/logo.png"
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Best Private University in Uttar Pradesh (India)"
+        },
+        {
+          "tag": "h2",
+          "text": "Choose Excellence at BBDUA Premier University in Lucknow"
+        },
+        {
+          "tag": "h2",
+          "text": "See it in Action"
+        },
+        {
+          "tag": "h3",
+          "text": "Star Night 2026"
+        },
+        {
+          "tag": "h3",
+          "text": "Innovations & AI"
+        },
+        {
+          "tag": "h3",
+          "text": "Future Leaders"
+        },
+        {
+          "tag": "h3",
+          "text": "Akhil Jyot 2026"
+        },
+        {
+          "tag": "h3",
+          "text": "Miss India"
+        },
+        {
+          "tag": "h3",
+          "text": "Life at BBDU"
+        },
+        {
+          "tag": "h2",
+          "text": "A campus experience like no other"
+        },
+        {
+          "tag": "h3",
+          "text": "Art & Culture"
+        },
+        {
+          "tag": "h2",
+          "text": "1400+"
+        },
+        {
+          "tag": "h3",
+          "text": "Sports & Fitness"
+        },
+        {
+          "tag": "h2",
+          "text": "50+"
+        },
+        {
+          "tag": "h3",
+          "text": "Home Away From Home"
+        },
+        {
+          "tag": "h2",
+          "text": "2000+"
+        },
+        {
+          "tag": "h3",
+          "text": "Student Communities"
+        },
+        {
+          "tag": "h2",
+          "text": "40+"
+        },
+        {
+          "tag": "h3",
+          "text": "Darshpreet Singh"
+        },
+        {
+          "tag": "h3",
+          "text": "Pratibha Gupta"
+        },
+        {
+          "tag": "h3",
+          "text": "Yukti Sethi"
+        },
+        {
+          "tag": "h3",
+          "text": "Bhavyaa Arora"
+        },
+        {
+          "tag": "h3",
+          "text": "Kartik Mishra"
+        },
+        {
+          "tag": "h3",
+          "text": "Nitesh Garg"
+        },
+        {
+          "tag": "h3",
+          "text": "Surya Bansal"
+        },
+        {
+          "tag": "h3",
+          "text": "Mohd Arshad"
+        },
+        {
+          "tag": "h3",
+          "text": "Darshpreet Singh"
+        },
+        {
+          "tag": "h3",
+          "text": "Pratibha Gupta"
+        },
+        {
+          "tag": "h3",
+          "text": "Yukti Sethi"
+        },
+        {
+          "tag": "h3",
+          "text": "Bhavyaa Arora"
+        },
+        {
+          "tag": "h3",
+          "text": "Kartik Mishra"
+        },
+        {
+          "tag": "h3",
+          "text": "Nitesh Garg"
+        },
+        {
+          "tag": "h3",
+          "text": "Surya Bansal"
+        },
+        {
+          "tag": "h3",
+          "text": "Mohd Arshad"
+        },
+        {
+          "tag": "h1",
+          "text": "Top Global CompaniesHire Our Talent"
+        },
+        {
+          "tag": "h2",
+          "text": "Our Recruiters"
+        },
+        {
+          "tag": "h3",
+          "text": "Academic Excellence"
+        },
+        {
+          "tag": "h3",
+          "text": "Research & Innovation"
+        },
+        {
+          "tag": "h3",
+          "text": "Alumni Stories"
+        },
+        {
+          "tag": "h3",
+          "text": "Career Mentorship"
+        },
+        {
+          "tag": "h2",
+          "text": "A Campus That Celebrates You"
+        },
+        {
+          "tag": "h3",
+          "text": "Multicultural Campus"
+        },
+        {
+          "tag": "h3",
+          "text": "Global Collaborations"
+        },
+        {
+          "tag": "h3",
+          "text": "Premier Cricket Stadium"
+        },
+        {
+          "tag": "h3",
+          "text": "Career Pathways"
+        },
+        {
+          "tag": "h3",
+          "text": "Khelo India BBDU"
+        },
+        {
+          "tag": "h3",
+          "text": "Auditorium"
+        },
+        {
+          "tag": "h3",
+          "text": "Convocation 2025"
+        },
+        {
+          "tag": "h3",
+          "text": "Ganesh Mahotsav"
+        },
+        {
+          "tag": "h3",
+          "text": "Founder's Day Star Night"
+        },
+        {
+          "tag": "h2",
+          "text": "Our Star Alumni"
+        },
+        {
+          "tag": "h3",
+          "text": "DR. RICZING O. LEDCHA"
+        },
+        {
+          "tag": "h3",
+          "text": "Anuj Soin"
+        },
+        {
+          "tag": "h3",
+          "text": "RATNAKAR TIWARI"
+        },
+        {
+          "tag": "h3",
+          "text": "TANISHA SINGH"
+        },
+        {
+          "tag": "h3",
+          "text": "DR. RICZING O. LEDCHA"
+        },
+        {
+          "tag": "h3",
+          "text": "Anuj Soin"
+        },
+        {
+          "tag": "h3",
+          "text": "RATNAKAR TIWARI"
+        },
+        {
+          "tag": "h3",
+          "text": "TANISHA SINGH"
+        },
+        {
+          "tag": "h3",
+          "text": "REACH US"
+        },
+        {
+          "tag": "h3",
+          "text": "QUICK LINKS"
+        },
+        {
+          "tag": "h3",
+          "text": "EXAMINATIONS"
+        },
+        {
+          "tag": "h3",
+          "text": "LATEST NOTICES"
+        },
+        {
+          "tag": "h3",
+          "text": "APPLY TODAY FORBabu Banarasi Das University"
+        }
+      ],
+      "paragraphs": [
+        "Babu Banarasi Das University integrates groundbreaking research and inclusive education to shape professionals driving innovation, sustainability, and social impact.",
+        "28+ Years of Academic Excellence UGC Recognized | NAAC Accredited",
+        "Industry-Oriented Academic Programs",
+        "Delivering Industry-driven mentorship",
+        "State of the art BCCI Approved stadium",
+        "Alumni Making an Impact Worldwide",
+        "Watch videos of campus life, placements, events and more",
+        "A Night to Remember with Kanika Kapoor",
+        "Our students getting placed at Fortune 500 companies",
+        "Celebrating Future Champions at Hindustan Olympiad 2026",
+        "A Day of Service, Awareness & Impact",
+        "Grand Finale of Femina Miss India Uttar Pradesh 2026",
+        "Explore our world-class campus with 100+ acres of green campus",
+        "The Art & Culture club, a flagship initiative, brings together creative minds to showcase their artistic talents.",
+        "Participants",
+        "Experience the thrill of competition and camaraderie at our grand Annual Sports Meet with over 50 sports.",
+        "Events",
+        "State-of-the-art residential facilities providing a comfortable and secure environment for all students on campus.",
+        "Hostel Beds",
+        "Join diverse student organizations and clubs to develop leadership skills and network with peers globally.",
+        "Active Clubs",
+        "B.Tech (CSE)",
+        "₹ 32 LAKH",
+        "B.Tech (CSE)",
+        "₹ 48 LAKH",
+        "B.Tech (CSE)",
+        "₹ 25.50 LAKH",
+        "B.Tech (CSE)",
+        "₹ 32 LAKH",
+        "B.Tech (CSE)",
+        "₹ 44.15 LAKH",
+        "B.Tech (CSE)",
+        "₹ 28.88 LAKH",
+        "B.Tech (CSE)",
+        "₹ 23.40 LAKH",
+        "B.Tech (CSE)",
+        "₹ 15 LAKH",
+        "B.Tech (CSE)",
+        "₹ 32 LAKH",
+        "B.Tech (CSE)",
+        "₹ 48 LAKH",
+        "B.Tech (CSE)",
+        "₹ 25.50 LAKH",
+        "B.Tech (CSE)",
+        "₹ 32 LAKH",
+        "B.Tech (CSE)",
+        "₹ 44.15 LAKH",
+        "B.Tech (CSE)",
+        "₹ 28.88 LAKH",
+        "B.Tech (CSE)",
+        "₹ 23.40 LAKH",
+        "B.Tech (CSE)",
+        "₹ 15 LAKH",
+        "↗Placements Overview",
+        "12,500+",
+        "Placement Offers",
+        "1,200+",
+        "Companies Visited",
+        "48 LPA",
+        "Highest Package",
+        "5.04 LPA",
+        "Average Package",
+        "Empowering Students. Enriching Lives.",
+        "We at BBDU partner with the world's best companies to bring the best career opportunities, industry exposure, and growth pathways for our students.",
+        "Student Life & Opportunities",
+        "Spaces, opportunities, and experiences that shape your journey.",
+        "Experience cultural diversity with students from all 28 Indian states, and its 8 Union territories.",
+        "Build international exposure through academic collaborations, exchange opportunities, and global partnerships.",
+        "Experience world-class sporting infrastructure with a premier BCCI-approved cricket stadium.",
+        "Discover career-driven learning, mentorship, internships, and future-ready growth opportunities.",
+        "Empowering student athletes through national-level sports culture, events, and training opportunities.",
+        "A modern auditorium designed for academic events, cultural programs, seminars, and student celebrations.",
+        "A grand venue designed for convocation ceremonies, academic gatherings, award functions, and memorable student celebrations.",
+        "A vibrant celebration dedicated to Lord Ganesha, filled with devotion, culture, music, rituals, and joyful community gatherings.",
+        "A grand finale of the Founder’s Day celebration, featuring live performances, awards, entertainment and unforgettable moments.",
+        "From classrooms to boardrooms, our alumni continue to inspire excellence and make BBDU proud across the globe.",
+        "Ph.D. in Management",
+        "Sr. Dental Surgeon, Superintendent Incharge, Singtam Hospital, Sikkim",
+        "BBA",
+        "GENERAL MANAGER, HOTEL RADISSON GURUGRAM",
+        "B.Tech. (ME)",
+        "Postdoctoral Fellow, Feinberg School of Medicine, Northwestern University",
+        "B.Tech. (CSE)",
+        "Research Scientist, University of Pittsburgh, UPMC Presbyterian, Pittsburgh, PA USA",
+        "Ph.D. in Management",
+        "Sr. Dental Surgeon, Superintendent Incharge, Singtam Hospital, Sikkim",
+        "BBA",
+        "GENERAL MANAGER, HOTEL RADISSON GURUGRAM",
+        "B.Tech. (ME)",
+        "Postdoctoral Fellow, Feinberg School of Medicine, Northwestern University",
+        "B.Tech. (CSE)",
+        "Research Scientist, University of Pittsburgh, UPMC Presbyterian, Pittsburgh, PA USA",
+        "Babu Banarasi Das University",
+        "© 2026 Babu Banarasi Das University. All Rights Reserved.",
+        "Designed and built by BBD EdTech Pvt. Ltd."
+      ],
+      "links": [
+        {
+          "url": "https://bbdu.ac.in/cdn-cgi/l/email-protection#9ef7f0f8f1defcfcfaebb0fffdb0f7f0",
+          "text": "[email protected]"
+        },
+        {
+          "url": "tel:+91(522)-6196222",
+          "text": "0-(522)-6196222"
+        },
+        {
+          "url": "https://bbdu.ac.in/apply-online",
+          "text": "APPLY NOW"
+        },
+        {
+          "url": "https://mybbd.in/fee-payment?type=BBDU",
+          "text": "Academic Fee Payment"
+        },
+        {
+          "url": "https://backend.bbdu.ac.in/wp-content/uploads/2026/06/BBD-University-Fee-Brochure-2026-27.pdf",
+          "text": "Fee Brochure 2026-27"
+        },
+        {
+          "url": "https://bbdu.ac.in/cdn-cgi/l/email-protection#38595b5b574d564c4b16505d54485c5d4b53785a5a5c4d16595b165156",
+          "text": "[email protected]"
+        },
+        {
+          "url": "https://bbdu.ac.in/cdn-cgi/l/email-protection#e4819c8589ca8c8188948081978fa486868091ca8587ca8d8a",
+          "text": "[email protected]"
+        },
+        {
+          "url": "tel:+0-(522)-6196222",
+          "text": null
+        },
+        {
+          "url": "https://www.facebook.com/lkobbdu",
+          "text": null
+        },
+        {
+          "url": "https://x.com/BBD_UNIVERSITY",
+          "text": null
+        },
+        {
+          "url": "https://www.linkedin.com/school/bbduniversityofficial/",
+          "text": null
+        },
+        {
+          "url": "https://www.instagram.com/bbduniversity/",
+          "text": null
+        },
+        {
+          "url": "https://www.youtube.com/c/BBDUNIVERSITYLUCKNOW",
+          "text": null
+        },
+        {
+          "url": "tel:+915226196300",
+          "text": null
+        },
+        {
+          "url": "https://bbdu.ac.in/",
+          "text": null
+        },
+        {
+          "url": "tel:05226196300",
+          "text": "Admission Helpline0-(522)-6196300"
+        },
+        {
+          "url": "https://bbdu.ac.in/placements",
+          "text": "VIEW PLACEMENTS →"
+        },
+        {
+          "url": "https://bbdu.ac.in/cdn-cgi/l/email-protection#046d6a626b44666660712a65672a6d6a",
+          "text": "[email protected]"
+        },
+        {
+          "url": "https://bbdu.ac.in/category/academic-calendar",
+          "text": "Academic Calendar"
+        },
+        {
+          "url": "https://bbdu.ac.in/alumni",
+          "text": "Alumni"
+        },
+        {
+          "url": "https://backend.bbdu.ac.in/wp-content/uploads/2026/05/Holidays-Calender-2026.pdf",
+          "text": "Holiday Calendar"
+        },
+        {
+          "url": "https://backend.bbdu.ac.in/wp-content/uploads/2026/04/fee-structure-2025-26-even.pdf",
+          "text": "Download Brochure"
+        },
+        {
+          "url": "https://backend.bbdu.ac.in/wp-content/uploads/2023/10/hostel-rule-book.pdf",
+          "text": "Hostel Rule Book"
+        },
+        {
+          "url": "https://bbdu.ac.in/anti-ragging",
+          "text": "Anti-Ragging"
+        },
+        {
+          "url": "https://bbdu.ac.in/public-self-disclosure",
+          "text": "Public Self Disclosure"
+        },
+        {
+          "url": "https://bbdu.ac.in/category/notices",
+          "text": "Notices"
+        },
+        {
+          "url": "https://voiceoflucknow.com/",
+          "text": "Voice of Lucknow E-Paper"
+        },
+        {
+          "url": "https://bbdu.ac.in/iqac/policy-document",
+          "text": "Code of Conduct"
+        },
+        {
+          "url": "https://bbdu.ac.in/iqac/feedback/",
+          "text": "Feedback"
+        },
+        {
+          "url": "https://bbdu.ac.in/blog/",
+          "text": "Blogs"
+        },
+        {
+          "url": "https://bbdu.ac.in/school-and-branch-code-2021-22",
+          "text": "School and Branch Code 2021-22"
+        },
+        {
+          "url": "https://bbdu.ac.in/schools-branch-codes/",
+          "text": "School and Branch Code 2017-18"
+        },
+        {
+          "url": "https://bbdu.ac.in/category/examination-notices",
+          "text": "Examination Notice"
+        },
+        {
+          "url": "https://bbdu.ac.in/result",
+          "text": "Result"
+        },
+        {
+          "url": "https://mybbd.in/login",
+          "text": "Enrollment Form Submission"
+        },
+        {
+          "url": "https://mybbd.in/student_service/login",
+          "text": "Student Support"
+        },
+        {
+          "url": "https://examcell.bbdu.ac.in/bbduexamcell/admin/login",
+          "text": "Examination Portal"
+        },
+        {
+          "url": "https://examcell.bbdu.ac.in/bbduexamcell/",
+          "text": "Exam Form Submission"
+        },
+        {
+          "url": "https://bbdu.ac.in/submission-of-examination-forms-for-bds-and-mds-examination-february-2026",
+          "text": "Submission of Examination Forms for BDS and MDS Examination February 2026"
+        },
+        {
+          "url": "https://bbdu.ac.in/bds-schedule-for-main-supplementary-examination-february-2026",
+          "text": "BDS Schedule for Main/Supplementary Examination February-2026"
+        },
+        {
+          "url": "https://backend.bbdu.ac.in/wp-content/uploads/2026/07/Student-Notice-01-for-Main-Results-of-Even-Semester-2025-26.pdf",
+          "text": "Student Notice-01 for Result of Even Semester of 2025-26"
+        },
+        {
+          "url": "https://backend.bbdu.ac.in/wp-content/uploads/2026/07/Student-Notice-02-for-Main-Results-of-Even-Semester-2025-26.pdf",
+          "text": "Student Notice-02 for Result of Even Semester of 2025-26"
+        },
+        {
+          "url": "https://backend.bbdu.ac.in/wp-content/uploads/2026/07/Student-Notice-03-for-Main-Results-of-Even-Semester-2025-26-1.pdf",
+          "text": "Student Notice-03 for Result of Even Semester of 2025-26"
+        },
+        {
+          "url": "https://backend.bbdu.ac.in/wp-content/uploads/2026/07/Student-Notice-04-Results-of-Even-Semester-Examination-2025-26.pdf",
+          "text": "Student Notice-04 for Result of Even Semester of 2025-26"
+        },
+        {
+          "url": "https://backend.bbdu.ac.in/wp-content/uploads/2026/06/Students-Notice-047-1.pdf",
+          "text": "Student Notice for COP Result of Even Semester of 2025-26 Except B.Sc & B.ID Courses"
+        },
+        {
+          "url": "https://backend.bbdu.ac.in/wp-content/uploads/2026/06/PhD-Admission-Notification-2026-27-Odd.pdf",
+          "text": "Ph.D. Admission Notification 2026-27 (Odd)"
+        },
+        {
+          "url": "https://backend.bbdu.ac.in/wp-content/uploads/2026/04/phd-admission-result-2025-26-even.pdf",
+          "text": "PhD Admission Result: 2025-26 (Even Semester)"
+        },
+        {
+          "url": "https://backend.bbdu.ac.in/wp-content/uploads/2026/04/register-learner-using-adhaar.pdf",
+          "text": "Register Learner Using Aadhaar & Enrollment Number"
+        },
+        {
+          "url": "https://dpat.bbdu.ac.in/",
+          "text": "Ph.D. Admission: 2025-26 (Odd Semester)"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://bbdu.ac.in/images/logo/logo-blue.png",
+          "alt": "BBDU University Home"
+        },
+        {
+          "url": "https://bbdu.ac.in/images/campus/culture_img.jpg",
+          "alt": "mini"
+        },
+        {
+          "url": "https://backend.bbdu.ac.in/wp-content/uploads/2026/06/kanika_bbdu.jpeg",
+          "alt": "top-right"
+        },
+        {
+          "url": "https://backend.bbdu.ac.in/wp-content/gallery/ganesh-mahotsav-2015/7-1.jpg",
+          "alt": "extra"
+        },
+        {
+          "url": "https://backend.bbdu.ac.in/wp-content/gallery/ganesh-mahotsav-2015/1-1.jpg",
+          "alt": "main"
+        },
+        {
+          "url": "https://bbdu.ac.in/images/campus/sports.jpg",
+          "alt": "mini"
+        },
+        {
+          "url": "https://backend.bbdu.ac.in/wp-content/gallery/sports/dsc_3912-min.jpg",
+          "alt": "top-right"
+        },
+        {
+          "url": "https://backend.bbdu.ac.in/wp-content/gallery/sports/dsc_4000-min.jpg",
+          "alt": "bottom-right"
+        },
+        {
+          "url": "https://bbdu.ac.in/images/campus/hostel.webp",
+          "alt": "mini"
+        },
+        {
+          "url": "https://backend.bbdu.ac.in/wp-content/uploads/2026/06/hostel.jpg",
+          "alt": "top-right"
+        },
+        {
+          "url": "https://backend.bbdu.ac.in/wp-content/uploads/2026/06/29384736927_8274cfc6c3_c.jpg",
+          "alt": "bottom-right"
+        },
+        {
+          "url": "https://bbdu.ac.in/images/campus/student_org.jpg",
+          "alt": "mini"
+        },
+        {
+          "url": "https://backend.bbdu.ac.in/wp-content/gallery/e0a4ace0a4bee0a4ace0a582e0a4ace0a4a8e0a4bee0a4b0e0a4b8e0a580-e0a4a6e0a4bee0a4b8-e0a4b5e0a4bfe0a4b6e0a58de0a4b5e0a4b5e0a4bfe0a4a6e0a58d/whatsapp-image-2022-08-15-at-11.33.28-pm-1.jpeg",
+          "alt": "top-right"
+        },
+        {
+          "url": "https://backend.bbdu.ac.in/wp-content/gallery/tech-fest-2017/dsc_7282-e1517813129603.jpg",
+          "alt": "bottom-right"
+        },
+        {
+          "url": "https://backend.bbdu.ac.in/wp-content/gallery/alumni-interaction-was-organised-for-the-freshers/whatsapp-image-2022-09-20-at-14.58.13.jpeg",
+          "alt": "main"
+        },
+        {
+          "url": "https://bbdu.ac.in/placementHero/Darshpreet_Amazon.jpg",
+          "alt": "Darshpreet Singh"
+        },
+        {
+          "url": "https://bbdu.ac.in/placementHero/amazon.webp",
+          "alt": "Company Logo"
+        },
+        {
+          "url": "https://bbdu.ac.in/placementHero/Pratibha_Gupta_CSE.jpg",
+          "alt": "Pratibha Gupta"
+        },
+        {
+          "url": "https://bbdu.ac.in/placementHero/microsoft.png",
+          "alt": "Company Logo"
+        },
+        {
+          "url": "https://bbdu.ac.in/placementHero/Yukti_Sethi_CSE.jpg",
+          "alt": "Yukti Sethi"
+        },
+        {
+          "url": "https://bbdu.ac.in/placementHero/cisco.png",
+          "alt": "Company Logo"
+        },
+        {
+          "url": "https://bbdu.ac.in/placementHero/Bhavyaa_Arora_Amazon.jpg",
+          "alt": "Bhavyaa Arora"
+        },
+        {
+          "url": "https://bbdu.ac.in/placementHero/Amazon_Kartik_Mishra.jpg",
+          "alt": "Kartik Mishra"
+        },
+        {
+          "url": "https://bbdu.ac.in/placementHero/Nitesh_Garg_Google.jpg",
+          "alt": "Nitesh Garg"
+        },
+        {
+          "url": "https://bbdu.ac.in/placementHero/google.png",
+          "alt": "Company Logo"
+        },
+        {
+          "url": "https://bbdu.ac.in/placementHero/WALMART_SURYA_BANSAL.jpg",
+          "alt": "Surya Bansal"
+        },
+        {
+          "url": "https://bbdu.ac.in/placementHero/walmart.png",
+          "alt": "Company Logo"
+        },
+        {
+          "url": "https://bbdu.ac.in/placementHero/Mohd_Arshad_IT.jpg",
+          "alt": "Mohd Arshad"
+        },
+        {
+          "url": "https://bbdu.ac.in/recruiters/academic_excellence_bg.webp",
+          "alt": "Academic Excellence"
+        },
+        {
+          "url": "https://bbdu.ac.in/recruiters/research_innovation_bg.webp",
+          "alt": "Research & Innovation"
+        },
+        {
+          "url": "https://bbdu.ac.in/recruiters/alumni_stories_bg.webp",
+          "alt": "Alumni Stories"
+        },
+        {
+          "url": "https://bbdu.ac.in/recruiters/career_mentorship_bg.webp",
+          "alt": "Career Mentorship"
+        },
+        {
+          "url": "https://bbdu.ac.in/placementHero/ibm.png",
+          "alt": "IBM"
+        },
+        {
+          "url": "https://bbdu.ac.in/placementHero/sap.png",
+          "alt": "SAP"
+        },
+        {
+          "url": "https://bbdu.ac.in/placementHero/accenture.png",
+          "alt": "Accenture"
+        },
+        {
+          "url": "https://bbdu.ac.in/images/campus/multiculture.jpeg",
+          "alt": "Multicultural Campus"
+        },
+        {
+          "url": "https://bbdu.ac.in/images/campus/globall.jpg",
+          "alt": "Global Collaborations"
+        },
+        {
+          "url": "https://bbdu.ac.in/images/campus/stadium.jpg",
+          "alt": "Premier Cricket Stadium"
+        },
+        {
+          "url": "https://bbdu.ac.in/images/campus/career_pathways.webp",
+          "alt": "Career Pathways"
+        },
+        {
+          "url": "https://bbdu.ac.in/images/campus/khelo_india_you.png",
+          "alt": "Khelo India BBDU"
+        },
+        {
+          "url": "https://bbdu.ac.in/images/campus/auditorium.webp",
+          "alt": "Auditorium"
+        },
+        {
+          "url": "https://backend.bbdu.ac.in/wp-content/gallery/bbdu-convocation-2025/convocation-2025-6.jpeg",
+          "alt": "Convocation 2025"
+        },
+        {
+          "url": "https://backend.bbdu.ac.in/wp-content/gallery/ganesh-mahotsav-2025/whatsapp-image-2025-10-03-at-11.35.05-am.jpg",
+          "alt": "Ganesh Mahotsav"
+        },
+        {
+          "url": "https://backend.bbdu.ac.in/wp-content/gallery/founders-day-star-night-31-march-2023/st-night3.jpg",
+          "alt": "Founder's Day Star Night"
+        },
+        {
+          "url": "https://bbdu.ac.in/images/alumni/dr-rigzing.jpg",
+          "alt": "DR. RICZING O. LEDCHA"
+        },
+        {
+          "url": "https://bbdu.ac.in/images/alumni/anuj-soin.jpeg",
+          "alt": "Anuj Soin"
+        },
+        {
+          "url": "https://bbdu.ac.in/images/alumni/ratnakar.jpg",
+          "alt": "RATNAKAR TIWARI"
+        },
+        {
+          "url": "https://bbdu.ac.in/images/alumni/tanisha-singh.png",
+          "alt": "TANISHA SINGH"
+        },
+        {
+          "url": "https://bbdu.ac.in/images/logo/new_red.gif.webp",
+          "alt": "New"
+        }
+      ],
+      "tables": [],
+      "counts": {
+        "headings": 64,
+        "paragraphs": 95,
+        "links": 49,
+        "images": 49,
+        "tables": 0
+      },
+      "mode": "static"
+    }
+  }
+]
