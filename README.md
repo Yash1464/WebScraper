@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Web Scraper Pro
 
 A full-stack, general-purpose web scraper. Paste any URL and extract **titles, meta tags, headings, paragraphs, links, images, and tables** in one pass — then export the results to CSV or Excel.
@@ -81,3 +82,6 @@ Open `http://localhost:5173`, paste a URL (e.g. `https://en.wikipedia.org/wiki/W
 - Add a custom CSS-selector mode for power users
 - Rate limiting + a job queue (BullMQ) for scraping many URLs at once
 - Auth so each user only sees their own scrape history
+=======
+# WebScraper
+>>>>>>> 08c4d1e57ed17146d4c02c84f685b4c7f3d5c43c
