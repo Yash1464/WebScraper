@@ -32,6 +32,9 @@ app.use((err, req, res, next) => {
   res.status(500).json({ error: "Internal server error" });
 });
 
+app.use(cors({origin:"https://web-scraper-orcin-nine.vercel.app/"}));
+
+
 app.listen(PORT, () => {
   console.log(`🚀 Web Scraper Pro backend running on http://localhost:${PORT}`);
 });
